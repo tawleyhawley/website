@@ -10,22 +10,22 @@ These images were captured at 100x to 400x magnification.
 
 <div class="row">
   <div class="col-sm-6">
-    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/microscope/image1.jpg">
+    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/microscope/image-1.jpg">
   </div>
   <div class="col-sm-6">
-    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/microscope/image2.jpg">
+    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/microscope/image-2.jpg">
   </div>
 </div>
 
 <div class="row mt-3">
   <div class="col-sm-4">
-    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/microscope/image3.jpg">
+    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/microscope/image-3.jpg">
   </div>
   <div class="col-sm-4">
-    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/microscope/image4.jpg">
+    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/microscope/image-4.jpg">
   </div>
   <div class="col-sm-4">
-    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/microscope/image5.jpg">
+    <img class="img-fluid" src="{{ site.baseurl }}/assets/images/microscope/image-5.jpg">
   </div>
 </div>
 
