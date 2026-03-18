@@ -2,8 +2,8 @@ title: Emma Hawley | Microscopy
 description: A collection of microscopy art
 remote_theme: yousinix/portfolYOU
 
-baseurl: "" 
-url: "https://tawleyhawley.github.io"
+baseurl: "https://tawleyhawley.github.io/website/" 
+url: "https://tawleyhawley.github.io/website/"
 
 plugins:
   - jekyll-remote-theme
